@@ -9,10 +9,7 @@ Needs discord.py and dotenv, can be installed with
 
 Requires .env file in the same directory with the following variables:
 
->TOKEN
->CHANNEL
->EMAIL
->PASS
+>TOKEN, CHANNEL, EMAIL, PASS
 
 Run the file in the background to start the script. File can be run with
 
